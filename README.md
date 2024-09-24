@@ -15,15 +15,15 @@ FindRSS is a command-line tool that searches for the Atom or RSS feed of a given
 1. Make sure you have Go installed on your system.
 2. Clone this repository:
    ```
-   git clone https://github.com/yourusername/findrss-github.git
+   git clone https://github.com/diegocaumont/findrss-go
    ```
 3. Navigate to the project directory:
    ```
-   cd findrss-github
+   cd findrss-go
    ```
 4. Build the executable:
    ```
-   go build -o findrss
+   go build -o find
    ```
 
 ## Usage
@@ -39,9 +39,9 @@ FindRSS is a command-line tool that searches for the Atom or RSS feed of a given
      }
    ]
    ```
-2. Run the `findrss` tool, providing the path to the JSON file as an argument:
+2. Run the `find.go` tool, providing the path to the JSON file as an argument:
    ```
-   ./findrss input.json
+   ./find input.json
    ```
 3. The tool will process each website concurrently, searching for RSS/Atom feeds.
 4. The discovered feed URLs will be added to the JSON file, and the updated file will be saved.
@@ -53,7 +53,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](LICENSE) file for details.
 
 (Created in collaboration with [j3s](https://j3s.sh).)
 
