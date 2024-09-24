@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://news.harvard.edu/gazette/feed/",
+    "rss": "https://news.harvard.edu/gazette/feed/"
+  },
+  {
+    "url": "https://news.stanford.edu/feed/",
+    "rss": "https://news.stanford.edu/feed?format=atom"
+  },
+  {
+    "url": "https://www.cam.ac.uk/research/news/feed",
+    "rss": "https://www.cam.ac.uk/research/news/feed/.rss"
+  },
+  {
+    "url": "https://vcresearch.berkeley.edu/rss.xml",
+    "rss": "https://vcresearch.berkeley.edu/rss.xml/.atom.xml"
+  },
+  {
+    "url": "https://www.princeton.edu/news/rss.xml",
+    "rss": "https://www.princeton.edu/news/rss.xml/"
+  },
+  {
+    "url": "https://news.yale.edu/rss.xml",
+    "rss": "https://news.yale.edu/rss.xml/.xml"
+  },
+  {
+    "url": "https://news.uchicago.edu/rss.xml",
+    "rss": "https://news.uchicago.edu/rss.xml"
+  },
+  {
+    "url": "https://penntoday.upenn.edu/rss.xml",
+    "rss": "https://penntoday.upenn.edu/rss.xml"
+  },
+  {
+    "url": "https://www.utoronto.ca/news/rss.xml",
+    "rss": "https://www.utoronto.ca/news/rss.xml/.xml"
+  },
+  {
+    "url": "https://news.nus.edu.sg/feed/",
+    "rss": "https://news.nus.edu.sg/feed/"
+  },
+  {
+    "url": "https://www.mcgill.ca/newsroom/",
+    "rss": "https://www.mcgill.ca/newsroom/rss.xml"
+  },
+  {
+    "url": "https://news.ubc.ca/feed/",
+    "rss": "https://news.ubc.ca/feed/"
+  },
+  {
+    "url": "https://www.sorbonne-universite.fr/en/newsroom",
+    "rss": "https://www.sorbonne-universite.fr/en/newsroom/.rss?format=atom"
+  },
+  {
+    "url": "https://www.polytechnique.edu/en/news",
+    "rss": "https://www.polytechnique.edu/en/news/all.xml"
+  }
+]
